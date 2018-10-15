@@ -6,6 +6,10 @@ description: >-
 
 # Managing Suggestions
 
+_**Key:**_  
+`< >` = Required  
+`[ ]` = Optional
+
 Managing suggestions are simple. Each suggestion is assigned a **Suggestion ID** \(sID\). From there, staff members can either reject or approve a suggestion with the sID. The sID is located in the footer of each suggestion: 
 
 ![Suggestion Example w/ sID](.gitbook/assets/2yycffh.png)
@@ -19,6 +23,7 @@ Suggestions are approved via the sID. Once you have it, run the command`,approve
 * The suggestion will update as "Approved" in the suggestions channel and shortly delete itself afterward
 * The user will receive a DM that you approved their suggestion
 * The results of that suggestion will be logged in the suggestions logs channel
+* _An optional response can be added doing_  `,approve <ID> [response]`
 
 ![Suggestion Approved Status](.gitbook/assets/avibvld.png)
 
@@ -43,6 +48,7 @@ When a suggestion is approved or rejected, it's results are logged to the sugges
 * The submitter
 * The staff member that approved or rejected the suggestion
 * The sID
+* An optional response can be added doing `,approve <ID> [response]`
 
 ![Suggestion Results](.gitbook/assets/nadwjuo.png)
 

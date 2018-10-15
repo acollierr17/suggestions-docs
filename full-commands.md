@@ -8,17 +8,25 @@ description: >-
 
 Forgot the prefix or incorrectly set one? All commands by default use`,`as the prefix or the bot mention \(`@Suggestions#2602`\).
 
-* `approve` - Approve a user suggestion
-  * Usage `approve <id>`
+_**Key:**_  
+`< >` = Required  
+`[ ]` = Optional
+
+* `approve` - Approve a user suggestion \(with an optional response\)
+  * Usage `approve <id> [response]`
   * _Requires a staff role or the`MANAGE_GUILD`permission_
+* `blacklist` - Add or remove a user from the guild blacklist restricting them from using any of the `@Suggestions#2602` commands
+  * Usage `blacklist <add/remove> <userID> [reason]`\*
+  * _Requires the `MANAGE_GUILD` permission_
+  * _\*Reason is only required when adding a user to the blacklist_
 * `channel` - View the current user suggestions channel
 * `help` - List all commands, current prefix and more information
 * `info` - View information about the bot
 * `invite` - Get an invite link for the bot
 * `ping` - Get the latency of the bot and API
 * `prefix` - View the current bot prefix
-* `reject` - Reject a user suggestion
-  * Usage: `reject <id>`
+* `reject` - Reject a user suggestion \(with an optional response\)
+  * Usage: `reject <id> [response]`
   * _Requires a staff role or the`MANAGE_GUILD`permission_
 * `setchannel` - Set the user suggestions channel
   * Usage: `setchannel <channel>`
@@ -51,6 +59,7 @@ Forgot the prefix or incorrectly set one? All commands by default use`,`as the p
 * `setvotes`- Set which set of emojis you want to use in your guild for suggestions from a predefined list \(by default, the  ✅ and  ❌ emojis are used\). Use the command with no arguments to see the options and current configuration
   * Usage: `setvotes <#>`
   * _Requires the permission `MANAGE_GUILD`_
+* `mysuggestions` - View your own suggestion information including the total number you submitted, how many were rejected/approved and the sID of your most recent suggestion
 
 _\*Approved and rejected suggestions only counted since September 29, 2018._
 
