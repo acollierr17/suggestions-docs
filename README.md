@@ -8,11 +8,13 @@ description: >-
 
 ## Introduction
 
-I, anthony\#8557, created the Suggestions bot with the purpose of having something easy to use and everything you could need with suggestions all in one place. And I believe this bot will achieve that whether you're a YouTuber, eSports Team owner, Minecraft Server owner or just someone who wants to easily have friends in your guild suggest different ideas.
+The Suggestions bot, authored by anthony\#8577, is created with the purpose of having an easy to use, but powerful user experience and tool for all to use and the only suggestions bot/tool you would ever need. This bot will be the Suggestions bot and tool of Discord.
 
-You'll find this bot easy to use with customization. The moment you invite the bot, you'll only need to go through a couple super easy steps to get users submitting right away! You can do things such using the bot mention as a prefix for commands to setting a channel specifically for staff members to vote on!
+Whether you're a YouTuber, eSports Team Owner, Minecraft server owner or someone who wants to easily have friends in your guild suggest different ideas, this bot will meet the needs of your Discord.
 
-However, I created this documentation to help you grasp the full features of the bot. You will find these docs to be updated constantly. If you find any issues or have suggestions for improvements, then please, don't hesitate to join my Discord server via the link above!
+With constant updates and a developer who is actively communicating with his user base, Suggestions is an ever growing project. Easy to use commands and customization, it only takes a few seconds for your users to get started with suggestions.
+
+This documentation is only a supplement to the experience. It's to help a new or advanced user get the full usage of the bot. If you ever find any issues or have any suggestions for improvements, then please, don't hesitate to join the Discord server via the link above!
 
  [![Suggestions](https://discordbots.org/api/widget/474051954998509571.svg)](https://discordbots.org/bot/474051954998509571)
 
