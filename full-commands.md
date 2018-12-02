@@ -49,7 +49,7 @@ These commands require a staff role or the `MANAGE_GUILD` permission.
 {% endtab %}
 
 {% tab title="Admin Commands" %}
-These commands require the MANAGE\_GUILD permission.
+These commands require the `MANAGE_GUILD` permission.
 
 * `blacklist` - Add or remove a user from the bot blacklist \(guild-only\)
   * Usage: `blacklist <add/remove> <user ID> <reason>`\*
