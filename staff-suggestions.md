@@ -7,6 +7,12 @@ description: >-
 
 # Staff Suggestions
 
+{% hint style="danger" %}
+The Suggestions Bot, as of 9 AM, December 3rd, 2018, is offline due to hosting issues. This matter is currently being worked out. If you have any questions or concerns, then we advise that you join the Discord server linked above. 
+
+We do apologize for the inconvenience this has caused if you currently are using this bot or have invited it! This is a rare occasion for us and we are doing out best to handle this matter.
+{% endhint %}
+
 {% hint style="warning" %}
 This feature does not mirror the regular user suggestions. This means there is no logging or a unique sID for each suggestion. It's a lightweight feature that allows staff members to vote on matters internally with zero interference of the user suggestions feature.
 {% endhint %}

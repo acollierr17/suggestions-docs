@@ -6,6 +6,12 @@ description: >-
 
 # Statistics
 
+{% hint style="danger" %}
+The Suggestions Bot, as of 9 AM, December 3rd, 2018, is offline due to hosting issues. This matter is currently being worked out. If you have any questions or concerns, then we advise that you join the Discord server linked above. 
+
+We do apologize for the inconvenience this has caused if you currently are using this bot or have invited it! This is a rare occasion for us and we are doing out best to handle this matter.
+{% endhint %}
+
 {% hint style="info" %}
 Logging of approved/rejected status of suggestions began on September 29, 2018. Any data before that \*specifically\* regarding the status of a suggestion is not logged. However, suggestion data in general, in the new database, has been logged. This explains the gap between approved/rejected suggestions and the total number of suggestions in your guild if you have had this bot in your guild for some time.
 {% endhint %}
