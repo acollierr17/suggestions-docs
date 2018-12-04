@@ -6,14 +6,6 @@ description: >-
 
 # Suggestions
 
-{% hint style="danger" %}
-The Suggestions Bot, as of 9 AM, December 3rd, 2018, is offline due to hosting issues. This matter is currently being worked out. If you have any questions or concerns, then we advise that you join the Discord server linked above. 
-
-We do apologize for the inconvenience this has caused if you currently are using this bot or have invited it! This is a rare occasion for us and we are doing out best to handle this matter.
-{% endhint %}
-
-
-
 ## Introduction
 
 The Suggestions bot, authored by anthony\#8577, is created with the purpose of having an easy to use, but powerful user experience and tool for all to use and the only suggestions bot/tool you would ever need. This bot will be the Suggestions bot and tool of Discord.

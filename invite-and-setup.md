@@ -6,12 +6,6 @@ description: >-
 
 # Invite & Setup
 
-{% hint style="danger" %}
-The Suggestions Bot, as of 9 AM, December 3rd, 2018, is offline due to hosting issues. This matter is currently being worked out. If you have any questions or concerns, then we advise that you join the Discord server linked above. 
-
-We do apologize for the inconvenience this has caused if you currently are using this bot or have invited it! This is a rare occasion for us and we are doing out best to handle this matter.
-{% endhint %}
-
 {% hint style="info" %}
 Keep in mind you **must** have the`MANAGE SERVER`or`ADMINISTRATOR`permissions to be able to invite a bot to your server.
 {% endhint %}
