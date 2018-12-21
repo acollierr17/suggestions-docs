@@ -33,6 +33,8 @@ _**Key:**_
 * `suggest` - Submit a new suggestion
   * Usage: `suggest <suggestion>`
 * `suggestions` - View suggestions data in the guild
+* `vote`- View all links to vote for the bot on various bot list sites
+* `patrons`- View all Patrons who have pledged to Nerd Cave Development
 {% endtab %}
 
 {% tab title="Staff Commands" %}
