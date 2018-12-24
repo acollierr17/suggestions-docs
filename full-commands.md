@@ -13,7 +13,7 @@ _**Key:**_
 `[ ]` = Optional
 
 {% tabs %}
-{% tab title="User Commands" %}
+{% tab title="General Commands" %}
 * `changelog` - View the recent changelog for the bot
   * Aliases: `changes, updates, changelogs`
 * `help` - View bot commands and where to receive support

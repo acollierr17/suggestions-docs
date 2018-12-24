@@ -4,6 +4,6 @@
 * [Invite & Setup](invite-and-setup.md)
 * [Managing Suggestions](managing-suggestions.md)
 * [Staff Suggestions](staff-suggestions.md)
-* [Full Commands](full-commands.md)
 * [Statistics](statistics.md)
+* [Full Commands](full-commands.md)
 
